@@ -1,0 +1,9 @@
+{
+    "app_id": "full-stack-ninja-rveoe",
+    "config_version": 20210101,
+    "name": "Full-Stack-Ninja",
+    "location": "US-VA",
+    "provider_region": "aws-us-east-1",
+    "deployment_model": "LOCAL",
+    "environment": "production"
+}
